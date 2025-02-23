@@ -1,4 +1,4 @@
-# project-machine-learning-breast-cancer
+# Project machine learning breast cancer
 ## Background problem
 In this project, I predict the type of breast cancer using a dataset from Scikit-Learn (https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-wisconsin-diagnostic-dataset). The goal of this project is to classify breast cancer as malignant or benign based on 30 features in the dataset.
 
