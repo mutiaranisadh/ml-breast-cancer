@@ -10,7 +10,7 @@ In this project, I predict the type of breast cancer using a dataset from Scikit
 
 ## Insight 
 In this project, I have obtained several insights from my analysis :
-1. insight A
+1. This model has an accuracy of 97%, which means the model can classify breast cancer very well.
 2. insight B
 3. insight c
 4. dst
