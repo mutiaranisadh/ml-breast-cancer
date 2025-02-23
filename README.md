@@ -1,6 +1,6 @@
 # project-exploratory-data-analysis
 ## Background problem
-Pada bagian ini silahkan bisa menjelaskan bancground problem yang ada pada project anda. Jelaskan Situation (problem2nya) dan juga berkaitan dengan Task (tujuan, goals, yang mau dicapai dan dikerjai). Dashboard memiliki jumlah memori yang besar dan juga datasetnya juga beasr, alhasil saya taruh pada link berikut : link_drive
+In this project, I predict the type of breast cancer using a dataset from Scikit-Learn (https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-wisconsin-diagnostic-dataset). The goal of this project is to classify breast cancer as malignant or benign based on 30 features in the dataset.
 
 ## Version Libraries
 - pandas v1
@@ -9,16 +9,16 @@ Pada bagian ini silahkan bisa menjelaskan bancground problem yang ada pada proje
 - dst
 
 ## Insight 
-Pada project ini terdapat beberapa insight yang saya peroleh dari hasil analisa saya :
+In this project, I have obtained several insights from my analysis :
 1. insight A
 2. insight B
 3. insight c
 4. dst
 
 ## Advice
-Project ini masih bisa anda kembangkan ke ranah yang berkaitan dengan machine learning :
+This project can still be further developed into areas related to machine learning :
 1. saran A
 2. saran B
 3. saran C
 
-#EDA #python #BI
+#datascience #machinelearning #python
