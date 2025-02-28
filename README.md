@@ -11,8 +11,10 @@ Breast cancer is a type of cancer that occurs in women and is rare in men. It ne
 ## Insight 
 In this project, I have obtained several insights from my analysis :
 1. This model has an accuracy of 96%, which means the model can classify breast cancer very well
-2. From the 20% of data used for testing or 114 samples, the model correctly predicted 70 benign cases, 40 malignant cases, 3 malignant cases were incorrectly classified as benign, and 1 benign sample was misclassified as malignant.
-
+2. The precision is very high, which means the model rarely makes incorrect predictions.
+3. The recall for the malignant class is lower than the benign class. This indicates that some malignant cancer cases may not be detected.
+4. Worst area has the highest influence in breast cancer classification.
+   
 ## Advice
 This project can still be further developed into areas related to machine learning :
 1. It can be improved with a larger and more diverse dataset
